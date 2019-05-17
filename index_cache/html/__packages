@@ -1,0 +1,13 @@
+base
+knitr
+rmdformats
+readxl
+shiny
+dplyr
+timevis
+leaflet
+stringr
+ggplot2
+ggmap
+leaflet.extras
+kableExtra
